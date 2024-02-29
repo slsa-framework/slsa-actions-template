@@ -1,4 +1,5 @@
-<a href="https://github.com/ianlewis/slsa-byob-template/actions"><img alt="typescript-action status" src="https://github.com/ianlewis/slsa-byob-template/workflows/build-test/badge.svg"></a>
+[![Build Status](https://github.com/slsa-framework/slsa-actions-template/workflows/build-test/badge.svg)](https://github.com/slsa-framework/slsa-actions-template/actions)
+[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev)
 
 # TypeScript action + SLSA generation template
 
